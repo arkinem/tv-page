@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import App from "./App";
+import MainPage from "./pages/MainPage";
 import "reset-css";
 
-ReactDOM.render(<App />, document.getElementById("root"));
+ReactDOM.render(<MainPage />, document.getElementById("root"));
